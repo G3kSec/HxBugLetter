@@ -39,7 +39,7 @@ const CACHE_ENABLED = process.env.NODE_ENV !== "development";
    arreglarlo sin leer este código. */
 
 function fail(file: string, message: string): never {
-  throw new Error(`[0xBugLetter] ${file}: ${message}`);
+  throw new Error(`[HxBugLetter] ${file}: ${message}`);
 }
 
 function requireString(file: string, obj: RawRecord, key: string): string {

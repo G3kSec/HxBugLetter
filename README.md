@@ -1,7 +1,7 @@
-# 0xBugLetter
+# HxBugLetter
 
-[![Daily Post](https://github.com/G3kSec/0xBugLetter/actions/workflows/post.yml/badge.svg)](https://github.com/G3kSec/0xBugLetter/actions/workflows/post.yml)
-[![Validate](https://github.com/G3kSec/0xBugLetter/actions/workflows/validate.yml/badge.svg)](https://github.com/G3kSec/0xBugLetter/actions/workflows/validate.yml)
+[![Daily Post](https://github.com/G3kSec/HxBugLetter/actions/workflows/post.yml/badge.svg)](https://github.com/G3kSec/HxBugLetter/actions/workflows/post.yml)
+[![Validate](https://github.com/G3kSec/HxBugLetter/actions/workflows/validate.yml/badge.svg)](https://github.com/G3kSec/HxBugLetter/actions/workflows/validate.yml)
 
 A self-curating archive of bug bounty writeups and research.
 

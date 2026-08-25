@@ -5,7 +5,7 @@ import { CodeBlock, Step } from "@/components/code-block";
 export const metadata: Metadata = {
   title: "Bot setup",
   description:
-    "How the 0xBugLetter bot auto-archives new writeups and notifies Discord, and how to connect it to your own server.",
+    "How the HxBugLetter bot auto-archives new writeups and notifies Discord, and how to connect it to your own server.",
 };
 
 export default function SetupPage() {
@@ -38,7 +38,7 @@ export default function SetupPage() {
           comment at the top of its file, and fixing one is just editing the
           YAML and committing the correction. See{" "}
           <a
-            href="https://github.com/G3kSec/0xBugLetter/blob/main/bot/README.md#classification-read-this-part"
+            href="https://github.com/G3kSec/HxBugLetter/blob/main/bot/README.md#classification-read-this-part"
             target="_blank"
             rel="noreferrer noopener"
             className="text-accent hover:underline"
@@ -154,12 +154,12 @@ export default function SetupPage() {
             <p>
               Fork{" "}
               <a
-                href="https://github.com/G3kSec/0xBugLetter"
+                href="https://github.com/G3kSec/HxBugLetter"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="text-accent hover:underline"
               >
-                G3kSec/0xBugLetter
+                G3kSec/HxBugLetter
               </a>
               . The workflow is already configured; all it needs is the
               credential. Note that running your own fork means your fork

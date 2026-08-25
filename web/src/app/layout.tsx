@@ -6,8 +6,8 @@ import { SiteHeader } from "@/components/site-header";
 
 import "./globals.css";
 
-// Same pairing as 0xHashFavicon, so the two sites in the 0x family read as
-// one design language rather than two unrelated projects.
+// Same pairing as the rest of the HxHunt family, so the sites read as
+// one design language rather than unrelated projects.
 const poppins = Poppins({
   variable: "--font-poppins",
   subsets: ["latin"],
@@ -23,8 +23,8 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "0xBugLetter | by G3kSec",
-    template: "%s · 0xBugLetter",
+    default: "HxBugLetter | by HxHunt",
+    template: "%s · HxBugLetter",
   },
   description:
     "A curated archive of bug bounty writeups and research. Every entry verified against its source, filterable by bug type and year.",
@@ -36,9 +36,9 @@ export const metadata: Metadata = {
     "web security",
     "appsec",
   ],
-  authors: [{ name: "G3kSec", url: "https://github.com/G3kSec" }],
+  authors: [{ name: "HxHunt", url: "https://hxhunt.com" }],
   openGraph: {
-    title: "0xBugLetter — Curated bug bounty archive",
+    title: "HxBugLetter — Curated bug bounty archive",
     description:
       "A curated archive of bug bounty writeups and research. Every entry verified against its source.",
     type: "website",

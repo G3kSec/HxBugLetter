@@ -7,7 +7,7 @@ import { BUG_TYPES, PLATFORMS, SEVERITIES } from "@/lib/types";
 export const metadata: Metadata = {
   title: "Contribute",
   description:
-    "How to add a writeup or a source to 0xBugLetter through a pull request.",
+    "How to add a writeup or a source to HxBugLetter through a pull request.",
 };
 
 export default function ContributePage() {

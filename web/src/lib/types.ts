@@ -1,5 +1,5 @@
 /**
- * Modelos de datos de 0xBugLetter.
+ * Modelos de datos de HxBugLetter.
  *
  * Todo el contenido vive como YAML en `data/` y se parsea en build-time.
  * Estos tipos son el contrato: el CI valida los PRs contra ellos.

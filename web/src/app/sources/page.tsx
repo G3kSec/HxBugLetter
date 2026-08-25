@@ -8,7 +8,7 @@ import type { Source, SourceCategory, SourceStatus } from "@/lib/types";
 export const metadata: Metadata = {
   title: "Sources",
   description:
-    "Every blog, podcast and platform already tracked by 0xBugLetter, with the current health of each feed.",
+    "Every blog, podcast and platform already tracked by HxBugLetter, with the current health of each feed.",
 };
 
 const CATEGORY_LABELS: Record<SourceCategory, string> = {
