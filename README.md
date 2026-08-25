@@ -5,7 +5,7 @@
 
 A self-curating archive of bug bounty writeups and research.
 
-**[0xbugletter.g3ksec.xyz](https://0xbugletter.g3ksec.xyz/)**
+**[bugletter.hxhunt.com](https://bugletter.hxhunt.com/)**
 
 ## What it is
 
