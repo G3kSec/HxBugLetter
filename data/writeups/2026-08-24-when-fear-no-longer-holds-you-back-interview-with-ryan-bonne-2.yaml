@@ -1,0 +1,23 @@
+# Auto-archived by bot/index.py from an RSS feed.
+# bug_type/severity/platform are keyword-guessed, not human-verified —
+# see CLASSIFICATION NOTES in bot/index.py. Fix by editing this file
+# directly and committing the correction.
+
+title: "When fear no longer holds you back. Interview with Ryan Bonner (Roll4CombatUS)"
+author: "Intigriti"
+date: "2026-08-24"
+url: "https://www.intigriti.com/researchers/blog/hacker-spotlight/interview-with-ryan-bonner-aka-roll4combatus"
+source: "Intigriti"
+
+# Classification — auto-guessed, see note above
+bug_type: "Methodology"
+severity: "Info"
+
+# Program
+platform: "Intigriti"
+
+summary: "Ryan Bonner, also known as Roll4CombatUS, is a respected Bug Bounty hunter, consultant, speaker, and Intigriti Hacker Ambassador based in the United States. In today’s interview, we discuss his journey into bug hunting, his recommended tools and techniques, and share advice for hunters just getting started. Ryan, how did you get started? To put it frankly, I got fired from my first pentesting jo"
+
+tags:
+  - "methodology"
+  - "hacker-spotlight"
