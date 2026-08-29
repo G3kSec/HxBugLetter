@@ -1,0 +1,23 @@
+# Auto-archived by bot/index.py from an RSS feed.
+# bug_type/severity/platform are keyword-guessed, not human-verified —
+# see CLASSIFICATION NOTES in bot/index.py. Fix by editing this file
+# directly and committing the correction.
+
+title: "Intigriti Bug Bytes #239 - August 2026 🚀"
+author: "Intigriti"
+date: "2026-08-28"
+url: "https://www.intigriti.com/researchers/blog/bug-bytes/intigriti-bug-bytes-239-august-2026"
+source: "Intigriti"
+
+# Classification — auto-guessed, see note above
+bug_type: "Recon"
+severity: "Info"
+
+# Program
+platform: "Intigriti"
+
+summary: "Hi hackers, Welcome to the latest edition of Bug Bytes! In this month's issue, we are featuring: Intigriti as the new provider for Adobe's Bug Bounty Program CSS injection as an attack vector inside your email inbox AI doing novel security research: the HTTP Terminator 169 offensive recon skills in one AI-ready toolkit And so much more! Let's dive in! CrowdRecon is coming Most security teams"
+
+tags:
+  - "recon"
+  - "bug-bytes"
