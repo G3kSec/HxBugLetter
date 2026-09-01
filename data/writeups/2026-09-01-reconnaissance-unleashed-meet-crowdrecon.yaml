@@ -1,0 +1,23 @@
+# Auto-archived by bot/index.py from an RSS feed.
+# bug_type/severity/platform are keyword-guessed, not human-verified —
+# see CLASSIFICATION NOTES in bot/index.py. Fix by editing this file
+# directly and committing the correction.
+
+title: "Reconnaissance unleashed: Meet CrowdRecon"
+author: "Intigriti"
+date: "2026-09-01"
+url: "https://www.intigriti.com/blog/news/reconnaissance-unleashed-meet-crowdrecon"
+source: "Intigriti"
+
+# Classification — auto-guessed, see note above
+bug_type: "Methodology"
+severity: "Info"
+
+# Program
+platform: "Intigriti"
+
+summary: "At Intigriti, we have been exploring a simple but important shift in security: the work that happens before a vulnerability report is often where the real signal begins. As vulnerability discovery accelerates, organizations need practical ways to identify and reduce risk before vulnerabilities are used in attacks. In Reconnaissance for exposure management, I discussed how context turns scanning a"
+
+tags:
+  - "methodology"
+  - "news"
