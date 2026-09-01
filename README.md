@@ -7,6 +7,17 @@ A self-curating archive of bug bounty writeups and research.
 
 **[bugletter.hxhunt.com](https://bugletter.hxhunt.com/)**
 
+## Table of Contents
+
+- [What it is](#what-it-is)
+- [Structure](#structure)
+- [The bot](#the-bot)
+- [Development](#development)
+- [Contributing](#contributing)
+- [Security](#security)
+- [Deploying](#deploying)
+- [Stack](#stack)
+
 ## What it is
 
 A GitHub Actions bot checks a short list of verified sources every day,
