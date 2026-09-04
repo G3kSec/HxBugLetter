@@ -1,0 +1,23 @@
+# Auto-archived by bot/index.py from an RSS feed.
+# bug_type/severity/platform are keyword-guessed, not human-verified —
+# see CLASSIFICATION NOTES in bot/index.py. Fix by editing this file
+# directly and committing the correction.
+
+title: "Hacking AI customer service agents"
+author: "Intigriti"
+date: "2026-09-02"
+url: "https://www.intigriti.com/researchers/blog/hacking-tools/hacking-ai-customer-service-agents"
+source: "Intigriti"
+
+# Classification — auto-guessed, see note above
+bug_type: "Methodology"
+severity: "Info"
+
+# Program
+platform: "Intigriti"
+
+summary: "As AI agents are deployed to automate more tasks, they become more capable. And as the famous quote goes: \"With great power comes great responsibility.\" Assuming that humans in the loop can mitigate that risk turns out to be. At Bug Bounty Village during DEF CON 34, Inti De Ceukelaire, Founding Member of Intigriti, delivered a talk on how attackers can abuse today's AI agents in ways most defender"
+
+tags:
+  - "methodology"
+  - "hacking-tools"
